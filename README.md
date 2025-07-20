@@ -1,7 +1,7 @@
 <div align="center">
 
 <h1>👋 Hi there! I'm <span style="color:#ffa500;">DEV PINALAYA</span></h1>
-📧 [Devpinalaya@gmail.com](mailto:Devpinalaya@gmail.com)
+<center>📧 [Devpinalaya@gmail.com](mailto:Devpinalaya@gmail.com)</center>
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=380&lines=Student+Developer;Web+%26+AI+Projects+Builder;HTML+%7C+CSS+%7C+JS+%7C+PHP+%7C+Python+%7C+Java" alt="Typing SVG" />
 

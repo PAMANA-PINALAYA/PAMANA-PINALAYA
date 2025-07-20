@@ -1,6 +1,6 @@
 <div align="center">
 
-## 👋 Hi there! I'm <span style="color:#ffa500;">DEV PINALAYA</span>
+##  Hi there! 👋 I'm <span style="color:#ffa500;">PINALAYA</span>
 
 📧 [Devpinalaya@gmail.com](mailto:Devpinalaya@gmail.com)
 

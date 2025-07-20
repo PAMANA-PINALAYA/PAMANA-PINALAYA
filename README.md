@@ -19,7 +19,7 @@
 
 ### 📂 Portfolio
 
-🚧 Portfolio: *on progress*  
-🔗 Coming soon!
+🚧 Projects: 🔗 Coming soon!  
+
 
 </div>

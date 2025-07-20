@@ -1,8 +1,9 @@
 <div align="center">
 
 <h1>👋 Hi there! I'm <span style="color:#ffa500;">DEV PINALAYA</span></h1>
+📧 [Devpinalaya@gmail.com](mailto:Devpinalaya@gmail.com)
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Student+Developer;Web+%26+AI+Projects+Builder;Loves+HTML+%7C+CSS+%7C+JS+%7C+PHP+%7C+Python+%7C+Java" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&pause=1000&center=true&vCenter=true&width=380&lines=Student+Developer;Web+%26+AI+Projects+Builder;HTML+%7C+CSS+%7C+JS+%7C+PHP+%7C+Python+%7C+Java" alt="Typing SVG" />
 
 ---
 
@@ -22,8 +23,6 @@
 🚧 Portfolio: *in progress*  
 🛠️ Once it's ready, it will appear here as a clickable link:
 
----
 
-📧 [Devpinalaya@gmail.com](mailto:Devpinalaya@gmail.com)
 
 </div>
